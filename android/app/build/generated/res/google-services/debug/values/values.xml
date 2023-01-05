@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="default_web_client_id" translatable="false">598115829060-c6end6hqfu1fha2g0anro9bclggresig.apps.googleusercontent.com</string>
+    <string name="gcm_defaultSenderId" translatable="false">598115829060</string>
+    <string name="google_api_key" translatable="false">AIzaSyAYbKQ9wuP9UyQ_gMw31X3pxBMsvHG9l1I</string>
+    <string name="google_app_id" translatable="false">1:598115829060:android:7613b5f699d35b5b430311</string>
+    <string name="google_crash_reporting_api_key" translatable="false">AIzaSyAYbKQ9wuP9UyQ_gMw31X3pxBMsvHG9l1I</string>
+    <string name="google_storage_bucket" translatable="false">imdblite-83ebc.appspot.com</string>
+    <string name="project_id" translatable="false">imdblite-83ebc</string>
+</resources>

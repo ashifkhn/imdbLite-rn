@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "598115829060",
+    "project_id": "imdblite-83ebc",
+    "storage_bucket": "imdblite-83ebc.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:598115829060:android:7613b5f699d35b5b430311",
+        "android_client_info": {
+          "package_name": "com.imdblite"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "598115829060-c6end6hqfu1fha2g0anro9bclggresig.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYbKQ9wuP9UyQ_gMw31X3pxBMsvHG9l1I"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "598115829060-c6end6hqfu1fha2g0anro9bclggresig.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
